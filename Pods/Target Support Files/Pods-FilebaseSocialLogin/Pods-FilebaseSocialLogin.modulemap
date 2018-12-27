@@ -1,0 +1,6 @@
+framework module Pods_FilebaseSocialLogin {
+  umbrella header "Pods-FilebaseSocialLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
